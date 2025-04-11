@@ -28,8 +28,8 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: aquamarine;
-  color:gainsboro;
+  background-color:navy;
+  color:gold;
 }
 
 h1 {
@@ -44,7 +44,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color:cyan;
   cursor: pointer;
   transition: border-color 0.25s;
 }

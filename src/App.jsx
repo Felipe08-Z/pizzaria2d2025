@@ -20,7 +20,7 @@ function App(){
         }
         }
       >
-        CLIQUE AQUI
+        ABATAKAAAA
       </button>
 
     </div>
